@@ -1,45 +1,23 @@
-<!--
-  GUNALAN T — GitHub Portfolio
-  AI × Quality Engineering × Product
--->
-
 <div align="center">
 
 <br/><br/><br/>
 
-<sub>QUALITY ENGINEER · AI BUILDER · PRODUCT THINKER</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=16&duration=1&pause=999999&color=8B8B98&center=true&vCenter=true&repeat=false&width=600&lines=AI+%C3%97+QUALITY+ENGINEERING" />
 
 # Gunalan T
 
-### I design quality systems for software<br/>that is increasingly built by AI.
+### Building intelligent systems for better software.
+
+I work at the intersection of **Quality Engineering, AI, and Automation** —
+designing tools and workflows that make software quality more intelligent.
 
 <br/>
 
-Quality Engineering × AI Systems × Automation × Product
-
-<br/><br/>
-
 <a href="https://github.com/Gunalan-T/QAForge">
-<img src="https://img.shields.io/badge/Explore_QAForge-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
- 
-
-<a href="#selected-work">
-<img src="https://img.shields.io/badge/Selected_Work-FFFFFF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Explore_QAForge-111113?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="70%"/>
-
-<br/><br/>
-
-### Currently exploring
-
-**How AI changes the way we understand, design,<br/>automate, and evaluate software quality.**
-
-<br/><br/>
 
 </div>
 
@@ -47,63 +25,36 @@ Quality Engineering × AI Systems × Automation × Product
 
 <br/>
 
-## 01 — About
-
-<br/>
-
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="33%" valign="top">
 
-### Quality engineering is becoming an intelligence problem.
+<sub>01 / FOCUS</sub>
 
-I've spent my career working across **software quality, test automation, APIs, systems, and engineering workflows**.
+### Quality × AI
 
-But the way software is built is changing.
-
-AI can now understand requirements, reason about systems, generate tests, write automation, inspect failures, and assist engineering decisions.
-
-That changes what Quality Engineering can become.
-
-My work explores that intersection.
-
-**Not AI replacing engineers.**
-
-**AI giving engineers better systems to work with.**
+AI-native testing, automation
+and quality intelligence.
 
 </td>
+<td width="33%" valign="top">
 
-<td width="38%" valign="top">
+<sub>02 / BUILDING</sub>
 
-<br/>
+### QAForge
 
-**CURRENT FOCUS**
+An intelligent workspace
+for Quality Engineering.
 
-AI-native Quality Engineering
+</td>
+<td width="33%" valign="top">
 
-<br/>
+<sub>03 / BASE</sub>
 
-**BUILDING**
+### India
 
-QAForge
-
-<br/>
-
-**WORKING ACROSS**
-
-Quality Engineering
-Automation
-AI Systems
-Product Engineering
-
-<br/>
-
-**INTERESTED IN**
-
-Developer Tools
-Agentic Workflows
-AI Evaluation
-Quality Intelligence
+Building products and
+engineering systems.
 
 </td>
 </tr>
@@ -115,80 +66,51 @@ Quality Intelligence
 
 <br/>
 
-<a name="selected-work"></a>
-
-## 02 — Selected Work
-
-<br/>
+<sub>SELECTED WORK   /   01</sub>
 
 # QAForge
 
-### Rethinking the QA workflow from first principles.
+### Quality Engineering, reimagined for the AI era.
+
+QAForge turns project requirements into **structured, traceable QA intelligence** — connecting planning, test design, automation and coverage in one engineering workflow.
 
 <br/>
 
-Most QA workflows are fragmented.
+`REQUIREMENTS`   →   `STRATEGY`   →   `TESTS`   →   `AUTOMATION`   →   `TRACEABILITY`
 
-Requirements live in documents.
+<br/><br/>
 
-Test plans live somewhere else.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Test cases become spreadsheets.
+<sub>WORKFLOW INTELLIGENCE</sub>
 
-Automation becomes another repository.
+### Forge
 
-Traceability slowly disappears.
+Transforms project context into structured QA artifacts — from requirements and scenarios to automation and coverage.
 
-And when requirements change, keeping everything aligned becomes expensive.
+**AI proposes. Engineers decide.**
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-**QAForge asks a different question:**
+<sub>ENGINEERING INTELLIGENCE</sub>
 
-> What if Quality Engineering had an intelligent operating layer connecting the entire workflow?
+### Atlas
 
-<br/>
+A focused research layer for QA, AI, automation, architecture and engineering decisions.
 
-<div align="center">
+**Research without leaving the workflow.**
 
-### REQUIREMENTS
-
-↓
-
-### UNDERSTANDING
-
-↓
-
-### TEST STRATEGY
-
-↓
-
-### TEST DESIGN
-
-↓
-
-### AUTOMATION
-
-↓
-
-### TRACEABILITY
-
-↓
-
-### RELEASE CONFIDENCE
-
-</div>
-
-<br/>
-
-QAForge is an **AI-native Quality Engineering workspace** I'm designing and building to explore that idea.
-
-It turns project context into structured QA intelligence while keeping engineers in control of every important decision.
+</td>
+</tr>
+</table>
 
 <br/>
 
 <a href="https://github.com/Gunalan-T/QAForge">
-<img src="https://img.shields.io/badge/View_QAForge_↗-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_project_↗-F4F4F5?style=for-the-badge&logo=github&logoColor=09090B" />
 </a>
 
 <br/><br/>
@@ -197,246 +119,9 @@ It turns project context into structured QA intelligence while keeping engineers
 
 <br/>
 
-### The problem
+<sub>EXPERTISE</sub>
 
-Traditional QA tooling helps teams **store testing artifacts**.
-
-I'm interested in systems that help engineers **reason about quality**.
-
-That means understanding:
-
-```text
-What changed?
-
-What requirements matter?
-
-What can fail?
-
-What should be tested?
-
-What is already covered?
-
-What should be automated?
-
-What remains risky?
-
-Are we confident enough to release?
-```
-
-QAForge is being designed around these questions.
-
-<br/><br/>
-
----
-
-<br/>
-
-### The system
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### FORGE
-
-### Workflow Intelligence
-
-Forge works across the QA lifecycle.
-
-It helps transform project context into structured engineering artifacts while maintaining relationships between them.
-
-<br/>
-
-`Requirements`
-
-↓
-
-`Module Mapping`
-
-↓
-
-`Test Strategy`
-
-↓
-
-`Scenarios`
-
-↓
-
-`Test Cases`
-
-↓
-
-`Test Data`
-
-↓
-
-`Automation`
-
-↓
-
-`Traceability`
-
-↓
-
-`Coverage`
-
-</td>
-
-<td width="50%" valign="top">
-
-#### ATLAS
-
-### Engineering Intelligence
-
-Atlas is the research and decision-support layer inside QAForge.
-
-Instead of behaving like a general-purpose chatbot, Atlas stays focused on engineering.
-
-<br/>
-
-It helps investigate:
-
-**Quality Engineering**
-
-**AI & LLM systems**
-
-**Automation frameworks**
-
-**Testing architecture**
-
-**Developer tooling**
-
-**Current technical developments**
-
-<br/>
-
-The goal isn't to answer everything.
-
-It's to provide useful context when an engineer needs to make a decision.
-
-</td>
-</tr>
-</table>
-
-<br/><br/>
-
----
-
-<br/>
-
-### Product principle 01
-
-# Structure before generation.
-
-LLMs are very good at producing text.
-
-Engineering systems need something different.
-
-They need predictable structures.
-
-```text
-UNSTRUCTURED AI
-
-Prompt
-  ↓
-Generation
-  ↓
-Large block of text
-  ↓
-Engineer interprets it
-
-
-QAFORGE
-
-Project Context
-  ↓
-Structured Extraction
-  ↓
-Schema Validation
-  ↓
-Engineering Artifact
-  ↓
-Human Review
-  ↓
-Next Stage
-```
-
-QAForge uses structured outputs and validation rather than treating generated prose as the final product.
-
-<br/><br/>
-
----
-
-<br/>
-
-### Product principle 02
-
-# Humans remain in the loop.
-
-AI can propose.
-
-It shouldn't silently decide.
-
-Critical workflow stages are designed around review gates.
-
-```text
-GENERATE  →  REVIEW  →  APPROVE  →  CONTINUE
-                │
-                └──── REJECT / REGENERATE
-```
-
-The engineer remains responsible for the engineering decision.
-
-<br/><br/>
-
----
-
-<br/>
-
-### Product principle 03
-
-# Traceability is infrastructure.
-
-A requirement shouldn't disappear after test cases are generated.
-
-The relationship should remain visible.
-
-```text
-REQ-014
-   │
-   ├──── SCN-031
-   │        │
-   │        ├──── TC-084
-   │        ├──── TC-085
-   │        └──── TC-086
-   │
-   └──── SCN-032
-            │
-            └──── TC-087
-                     │
-                     └──── AUTO-042
-```
-
-This makes coverage something the system can reason about instead of something engineers reconstruct manually.
-
-<br/><br/>
-
----
-
-<br/>
-
-## 03 — Professional Work
-
-<br/>
-
-# Quality Engineering,<br/>beyond automation.
-
-<br/>
-
-My professional work spans the complete QA lifecycle — from understanding requirements to validating production-ready systems.
+# What I work with.
 
 <br/>
 
@@ -444,204 +129,34 @@ My professional work spans the complete QA lifecycle — from understanding requ
 <tr>
 <td width="33%" valign="top">
 
-### Strategy
+### Quality Engineering
 
-Requirement analysis
-
-Risk identification
-
-Test planning
-
-Coverage design
-
-Traceability
-
-Release validation
+Test Strategy
+UI & API Testing
+Automation Architecture
+Traceability & Coverage
 
 </td>
 
 <td width="33%" valign="top">
 
-### Engineering
+### AI Engineering
 
-UI automation
-
-API testing
-
-Database validation
-
-Framework design
-
-CI/CD integration
-
-Regression systems
-
-</td>
-
-<td width="33%" valign="top">
-
-### AI Quality
-
-LLM validation
-
-Generated SQL evaluation
-
-Response accuracy
-
-AI workflow testing
-
-Hallucination analysis
-
-Structured output validation
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-I've worked across **banking, lending, EdTech, enterprise platforms, and GenAI systems**, testing both conventional software and AI-powered products.
-
-The common thread is the same:
-
-> Understand the system deeply enough to know where confidence can break.
-
-<br/><br/>
-
----
-
-<br/>
-
-## 04 — Selected Engineering Problems
-
-<br/>
-
-### 01
-
-# Testing systems where the answer isn't deterministic.
-
-Traditional software testing often asks:
-
-```text
-Expected == Actual ?
-```
-
-AI systems introduce a different problem.
-
-```text
-Is it correct?
-Is it grounded?
-Is it relevant?
-Is the reasoning valid?
-Did it use the right data?
-Is the output structurally usable?
-```
-
-My work with GenAI systems has involved evaluating **SQL accuracy, response quality, data grounding, generated insights, and failure behavior**.
-
-<br/>
-
----
-
-<br/>
-
-### 02
-
-# Automation should reduce uncertainty — not create scripts.
-
-I don't view automation coverage as the number of automated test cases.
-
-Useful automation creates fast feedback around important risk.
-
-That changes the question from:
-
-**“Can this test be automated?”**
-
-to:
-
-**“Should this behavior become part of our automated confidence system?”**
-
-<br/>
-
----
-
-<br/>
-
-### 03
-
-# QA artifacts should behave like connected data.
-
-Requirements, scenarios, cases, automation, defects, and coverage are usually treated as separate documents.
-
-They describe the same system.
-
-QAForge is partly an exploration of what becomes possible when those relationships are preserved.
-
-<br/><br/>
-
----
-
-<br/>
-
-## 05 — Toolkit
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,tailwind,git,github,figma,vscode&theme=dark" />
-
-</div>
-
-<br/><br/>
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-**PRODUCT**
-
-Next.js
-React
-TypeScript
-Tailwind
-shadcn/ui
-
-</td>
-
-<td width="25%" valign="top">
-
-**QUALITY**
-
-Playwright
-Selenium
-Cypress
-TestNG
-Postman
-
-</td>
-
-<td width="25%" valign="top">
-
-**AI**
-
-AI SDK
-Structured Output
-Zod
 LLM Evaluation
+Structured AI
 AI Validation
+Agentic Workflows
 
 </td>
 
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
-**ENGINEERING**
+### Product Engineering
 
-Git
-GitHub Actions
-CI/CD
-SQL
-JIRA
+Next.js & React
+TypeScript
+Developer Tooling
+AI Products
 
 </td>
 </tr>
@@ -653,61 +168,21 @@ JIRA
 
 <br/>
 
-## 06 — Now
+<sub>TOOLKIT</sub>
 
-<br/>
-
-# Building toward<br/>AI-native Quality Engineering.
-
-<br/>
-
-I'm currently exploring:
-
-**01 /** Agentic QA workflows
-
-**02 /** Requirement intelligence
-
-**03 /** AI-assisted test engineering
-
-**04 /** Autonomous browser testing
-
-**05 /** Quality coverage intelligence
-
-**06 /** LLM evaluation systems
-
-**07 /** AI × Playwright
-
-**08 /** Developer tooling for QA
-
-<br/>
-
-The broader question behind the work:
-
-### What happens when an AI system understands the requirements, product architecture, tests, automation, failures, and quality history at the same time?
-
-<br/>
-
-That's the direction I'm building toward.
-
-<br/><br/>
-
----
-
-<br/>
-
-## 07 — GitHub
+# Selected technologies.
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gunalan-T&show_icons=true&hide_border=true&bg_color=00000000&title_color=FAFAFA&icon_color=A78BFA&text_color=71717A&hide_title=true&rank_icon=github" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunalan-T&hide_border=true&background=00000000&ring=A78BFA&fire=C4B5FD&currStreakLabel=FAFAFA&sideLabels=71717A&dates=52525B" height="160"/>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,tailwind,git,github,figma,vscode&theme=dark" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunalan-T&bg_color=00000000&color=71717A&line=A78BFA&point=FAFAFA&area=true&hide_border=true&custom_title=" width="92%"/>
+`PLAYWRIGHT`    `SELENIUM`    `CYPRESS`    `POSTMAN`
+
+`AI SDK`    `ZOD`    `CI/CD`    `SQL`
 
 </div>
 
@@ -715,34 +190,64 @@ That's the direction I'm building toward.
 
 ---
 
-<div align="center">
+<br/>
 
-<br/><br/>
+<sub>PHILOSOPHY</sub>
 
-<sub>GUNALAN T · AI × QUALITY ENGINEERING</sub>
+# AI should accelerate engineering.
 
-# I'm interested in building<br/>what QA becomes next.
+# Not replace engineering judgment.
 
 <br/>
 
-Quality Engineering  ·  AI Systems  ·  Automation
-Developer Tools  ·  Product Engineering
+I believe the next generation of QA systems will understand **requirements, risk, tests, automation and product context together**.
+
+That's what I'm exploring with QAForge.
+
+<br/><br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<sub>GITHUB / ACTIVITY</sub>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gunalan-T&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4F4F5&icon_color=A78BFA&text_color=71717A&hide_title=true" height="155" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunalan-T&bg_color=00000000&color=71717A&line=A78BFA&point=E4E4E7&area=true&hide_border=true&custom_title=" width="92%" />
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+<br/><br/><br/>
+
+<sub>BUILDING AT THE INTERSECTION OF</sub>
+
+# Quality × AI × Product
+
+Interested in intelligent QA systems, AI engineering,
+automation and developer tooling.
 
 <br/><br/>
 
 <a href="https://github.com/Gunalan-T/QAForge">
-<img src="https://img.shields.io/badge/Explore_QAForge-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://github.com/Gunalan-T">
-<img src="https://img.shields.io/badge/GitHub_Profile-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/QAForge_↗-111113?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/><br/>
 
-<sub>DESIGNING SYSTEMS · ENGINEERING QUALITY · BUILDING WITH AI</sub>
+<sub>GUNALAN T   ·   AI × QUALITY ENGINEERING</sub>
 
 <br/><br/>
 
