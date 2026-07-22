@@ -1,114 +1,265 @@
-<!--
-  GitHub Profile README
-  Repo must be named exactly: Gunalan-T/Gunalan-T (public)
-  This file must be named README.md at the repo root.
-  See SETUP.md in this folder for push steps.
--->
-
 <div align="center">
 
-# Gunalan T
+# Hey, I'm Gunalan T 👋
 
-**Building AI-native QA systems — where models draft, engineers decide.**
+### AI × Quality Engineering · SDET · Product Builder
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gunalan--T-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gunalan-T)
-[![QAForge](https://img.shields.io/badge/Project-QAForge-7c5cff?style=for-the-badge)](https://github.com/Gunalan-T/QAForge)
+**Building AI-native QA systems where AI accelerates the work — and engineers stay in control.**
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=C4B5FD&center=true&vCenter=true&width=640&lines=AI+%C3%97+Quality+Engineering;Requirements+%E2%86%92+RTM+%E2%86%92+Export;Forge+builds.+Atlas+advises." alt="typing" />
+<a href="https://github.com/Gunalan-T">
+  <img src="https://img.shields.io/badge/GitHub-Gunalan--T-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Gunalan-T/QAForge">
+  <img src="https://img.shields.io/badge/Building-QAForge-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=AI-Native+Quality+Engineering;From+Requirements+to+Release+Confidence;Building+QAForge;Automating+the+work.+Keeping+humans+in+control." alt="Typing SVG" />
 
 </div>
 
 ---
 
-### About
+## ⚡ About Me
 
-I design and ship **AI-assisted engineering workflows** — not chat demos. My focus is production QA: requirements extraction, module mapping, test engineering, automation, and traceability, with humans in the loop at every gate.
+I'm a **Quality Engineer / SDET** focused on building intelligent systems that make software testing faster, more structured, and more reliable.
 
-Currently building **[QAForge](https://github.com/Gunalan-T/QAForge)** — an AI workspace that turns BRDs and specs into client-ready QA packages.
+My work sits at the intersection of:
+
+`Quality Engineering` · `Test Automation` · `AI Engineering` · `Developer Experience`
+
+Instead of using AI only as a chatbot, I'm interested in building **AI-assisted engineering workflows** that can understand requirements, generate structured QA artifacts, maintain traceability, assist automation, and help engineers make better decisions.
+
+Currently, I'm building **QAForge** — an AI-native Quality Engineering workspace designed to transform software requirements into structured, reviewable, and exportable QA deliverables.
 
 ---
 
-### Featured work
+## ✦ Featured Project — QAForge
+
+<div align="center">
+
+### From requirements → structured QA intelligence.
+
+**Upload specifications. Extract requirements. Build coverage. Generate tests. Maintain traceability.**
+
+<br />
+
+<a href="https://github.com/Gunalan-T/QAForge">
+  <img src="https://img.shields.io/badge/Explore_QAForge-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**QAForge**  
-AI quality-assurance workspace
+### 🔨 Forge
 
-- Requirements → Module Mapping → Test Plan  
-- Scenarios, cases, data, automation  
-- RTM, scorecards, multi-format export  
-- **Forge** (workflow copilot) + **Atlas** (live tech advisor)
+**AI Workflow Copilot**
 
-[Repository →](https://github.com/Gunalan-T/QAForge)
+Transforms project documentation into structured QA artifacts.
+
+* Requirement extraction
+* Module mapping
+* Test planning
+* Test scenarios
+* Test case generation
+* Test data
+* Automation planning
+* Traceability matrix
+* Coverage analysis
+* Multi-format exports
 
 </td>
+
 <td width="50%" valign="top">
 
-**Stack highlights**
+### 🧭 Atlas
 
-```text
-Next.js 15  ·  React 19  ·  TypeScript
-Tailwind v4 ·  Zustand  ·  Zod
-Vercel AI SDK  ·  Playwright
-Vitest  ·  shadcn/ui
-```
+**Engineering Research Advisor**
+
+A live technical research layer focused on:
+
+* Quality Engineering
+* Test automation
+* AI engineering
+* Framework research
+* Technology comparisons
+* Engineering decisions
+* Current technical developments
+
+Atlas uses cascading research sources to provide engineering-focused answers rather than generic search results.
 
 </td>
 </tr>
 </table>
 
+### QAForge Workflow
+
+```text
+                    QAForge
+
+   Project Specification / BRD / Requirements
+                       │
+                       ▼
+              Requirement Intelligence
+                       │
+                       ▼
+                 Module Mapping
+                       │
+                       ▼
+                   Test Plan
+                       │
+             ┌─────────┴─────────┐
+             ▼                   ▼
+       Test Scenarios        Test Data
+             │
+             ▼
+         Test Cases
+             │
+             ▼
+      Automation Strategy
+             │
+             ▼
+             RTM
+             │
+             ▼
+     Coverage + QA Scorecards
+             │
+             ▼
+        Client-ready Export
+```
+
 ---
 
-### Atlas (live research)
+## 🧠 Engineering Philosophy
 
-Inside QAForge, **Atlas** answers tech / QA / AI questions with a cascading web gatherer:
+> **AI should accelerate engineering decisions — not replace engineering judgment.**
 
-| Priority | Source | Notes |
-| :------: | ------ | ----- |
-| 1 | Tavily | Optional API — best for recent tech news |
-| 2 | Hacker News + DuckDuckGo Lite | Free default path |
-| 3 | DuckDuckGo Instant | Facts / abstracts |
-| 4 | Wikipedia | Concepts only (not live news) |
+QAForge is built around four principles:
 
-Sports, movies, and lifestyle topics are gated out — Atlas stays an engineering advisor.
-
----
-
-### Toolbox
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,tailwind,vercel,github,figma" alt="skills" />
-</p>
-
-`TypeScript` · `Next.js` · `React` · `AI SDK` · `Playwright` · `Zod` · `Zustand` · `QA strategy` · `RTM / coverage`
+| Principle            | Approach                                                                   |
+| -------------------- | -------------------------------------------------------------------------- |
+| 🧩 **Structured AI** | Schema-driven outputs instead of unpredictable free-form responses         |
+| 👤 **Human Control** | Review and approval gates before workflows progress                        |
+| 🔗 **Traceability**  | Requirements remain connected to scenarios, cases, automation and coverage |
+| ✨ **Product Craft**  | Clean interfaces, intentional motion and production-grade UX               |
 
 ---
 
-### Principles
+## 🛠 Tech Stack
 
-- **Structured AI** — Zod schemas, not free-form mush  
-- **Review gates** — approve / reject before the next stage unlocks  
-- **Traceability** — requirements stay linked through scenarios, cases, and automation  
-- **Premium craft** — solid surfaces, quiet borders, intentional motion — no template glass UI  
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,tailwind,vercel,github,git,figma,vscode" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+**Frontend & Product**
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `shadcn/ui`
+
+**AI & Architecture**
+
+`Vercel AI SDK` · `Structured AI` · `Zod` · `Zustand`
+
+**Quality Engineering**
+
+`Playwright` · `Selenium` · `Cypress` · `API Testing` · `TestNG`
+
+**Engineering**
+
+`Git` · `GitHub Actions` · `CI/CD` · `SQL` · `JIRA`
+
+</div>
+
+---
+
+## 🧪 Quality Engineering
+
+```text
+Requirements
+     ↓
+Risk Analysis
+     ↓
+Test Strategy
+     ↓
+Manual + API + Automation
+     ↓
+Traceability
+     ↓
+Coverage Intelligence
+     ↓
+Release Confidence
+```
+
+My focus isn't simply generating more tests.
+
+It's building systems that help answer:
+
+**What should we test? → Why does it matter? → Is it covered? → Can we trust the release?**
+
+---
+
+## 🔭 What I'm Exploring
+
+* AI-native Quality Engineering
+* Agentic QA workflows
+* AI-assisted test generation
+* Autonomous browser testing
+* Playwright + AI
+* Structured LLM outputs
+* Requirement intelligence
+* QA coverage scoring
+* AI evaluation and validation
+* Developer tooling
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gunalan-T&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C4B5FD&text_color=D1D5DB&rank_icon=github" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Gunalan-T&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=D1D5DB&dates=6B7280" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunalan-T&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=DDD6FE&area=true&hide_border=true" width="95%" />
+
+</div>
 
 ---
 
 <div align="center">
 
-**Open to conversations about AI × QA systems, product engineering, and shipping serious tools.**
+### Let's build better software — with smarter quality engineering.
+
+I'm interested in conversations around **AI × QA, SDET, test automation, developer tooling, and AI-native engineering products.**
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gunalan-T&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB" alt="stats" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunalan-T&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD" alt="streak" height="160" />
+<a href="https://github.com/Gunalan-T">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Gunalan-T/QAForge">
+  <img src="https://img.shields.io/badge/Explore_QAForge-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunalan-T&bg_color=0d1117&color=c4b5fd&line=a78bfa&point=e9d5ff&area=true&hide_border=true" alt="activity" width="100%" />
+<sub>⚡ Building at the intersection of <b>AI × Quality Engineering × Product</b></sub>
 
 </div>
